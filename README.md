@@ -33,8 +33,8 @@
 
 <p align="left">Hello World!!</p>
 
-Pagina Cripto hr/   https://jesusmtavarez.github.io/jesuMtavarez.github.io/ hr/
-VidioGame   hr/    https://jesusmtavarez.github.io/creando-un-videoGames/   hr
+Pagina Cripto <br>  https://jesusmtavarez.github.io/jesuMtavarez.github.io/ <br> 
+VidioGame   <br>     https://jesusmtavarez.github.io/creando-un-videoGames/   <br> 
 
 ###
 
