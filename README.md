@@ -36,6 +36,9 @@
 Tiende de Beat <br> 
 https://jesusmtavarez.github.io/tienda-de-beats/ <br>
 
+pagina games <br>
+https://jesusmtavarez.github.io/pagina-game/ <br>
+
 Pagina Cripto <br>
 https://jesusmtavarez.github.io/jesuMtavarez.github.io/ <br> 
 
