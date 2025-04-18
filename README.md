@@ -27,7 +27,7 @@
 
 ###
 
-<p align="left">Hello World!!<br>🎵I am a music producer and compositor<br>💻junior frontend developer programmer<br>⏲️Tech Content Creator<br>💎content creator on YouTube and Twitch</p>
+<p align="left">Hello World!!<br>🎵I am a music producer and BeatMaker<br>💻junior frontend developer programmer<br>⏲️Tech Content Creator<br>💎content creator on YouTube and Twitch</p>
 
 ###
 
