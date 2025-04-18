@@ -33,6 +33,9 @@
 
 <p align="left">Hello World!!</p>
 
+CV <br>
+https://jesusmtavarez.github.io/pagina-CV/ <br>
+
 Tiende de Beat <br> 
 https://jesusmtavarez.github.io/tienda-de-beats/ <br>
 
